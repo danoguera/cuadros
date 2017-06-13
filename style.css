@@ -1,0 +1,42 @@
+div{
+    background-color: #77E050;
+    height: 100px;
+    width: 100px;
+    margin: 30px 10px 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 2em;
+    color: #FFFFFF;
+    border: solid #F0F0F0 thick;
+    padding: 50px;
+
+}
+
+#uno{
+  width: 120px;
+  height: 100px;
+  margin: 5px 10px;
+  border: double blue 5px;
+  display: inline-block;
+}
+#dos{
+  width: 150px;
+  height: 120px;
+  margin: 5px 350px;
+  border: dotted green 3px;
+  display: inline-block;
+}
+#tres{
+  width: 60px;
+  height: 30px;
+  margin: 10% 5% 20%;
+  border: yellow dashed 0.5em;
+  display: inline-block;
+}
+#cuatro{
+  width: 80px;
+  height: 60px;
+  margin: 25px;
+  border: solid black 2px;
+  display: inline-block;
+}
